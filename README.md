@@ -6,9 +6,9 @@
 
 Folder | Explanation
 ------------- | -------------
-1st experiment  | High-resolution hybrid land-cover mapping
-2nd experiment  | 3D fuel mapping for forest risk assessment
-Testing | Shared scripts for testing lithops
+Dataset_processing  | Scripts for processing the raster images
+geospatial_shared | geospatial info
+land_cover_classification.ipynb | Tutorial landcover classification with serverless
 
 ## Acknowledgements
 
