@@ -1,5 +1,8 @@
 # GeoSpatial use case - CloudButton #
-1st and 2nd experiment of the Geospatial Usecase
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/lithops)
+
+
+First experiment of the GeoSpatial use case of [Cloudbutton: Serverless Data Analytics Platform](https://cloudbutton.eu/). High-resolution hybrid land-cover mapping: Through multi-temporal imagery from Sentinel 2 MSI sensor. Supervised classification of raster images and its processing with serveless technology.
 
 
 ## Github structure
