@@ -12,6 +12,7 @@ Folder | Explanation
 Dataset_processing  | Scripts for processing the raster images
 geospatial_shared | geospatial info
 land_cover_classification.ipynb | Tutorial landcover classification with serverless
+land_cover_classification_large_dataset.ipynb | Tutorial landcover classification with all the data processing
 
 ## Acknowledgements
 
