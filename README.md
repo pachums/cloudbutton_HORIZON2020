@@ -7,7 +7,7 @@ First experiment of the GeoSpatial use case of [Cloudbutton: Serverless Data Ana
 
 ## Github structure
 
-Folder | Explanation
+Folder/File | Explanation
 ------------- | -------------
 Dataset_processing  | Scripts for processing the raster images
 geospatial_shared | geospatial info
